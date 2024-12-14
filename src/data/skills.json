@@ -1,0 +1,46 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+ 
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
+  },
+  {
+    "title": "Dart",
+    "imageSrc": "skills/dart.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+    },
+
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+ 
+  },
+  
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Nest Buy – E-commerce Furniture Store",
+    "imageSrc": "projects/nest-buy.png",
+    "description": "Developed a user-friendly e-commerce platform for furniture sales using HTML, JavaScript, PHP, and Bootstrap within an MVC framework. Focused on creating a dynamic catalog, shopping cart, and secure checkout process in a collaborative team environment.",
+    "skills": ["HTML", "JavaScript", "PHP", "Bootstrap", "MVC"],
+    "demo": null,
+    "source": "https://github.com/shahedaltrakiah/Ecommerce-website"
+  },
+  {
+    "title": "EventAt – Event Management Platform",
+    "imageSrc": "projects/eventat.png",
+    "description": "Developed an interactive platform for managing events using JavaScript, utilizing JSON for data handling. Implemented features for scheduling and seat management, ensuring a responsive and engaging user experience.",
+    "skills": ["JavaScript", "JSON", "Responsive Design"],
+    "demo": null,
+    "source": "https://github.com/nazeranassser/event"
+  },
+  {
+    "title": "Movie Website",
+    "imageSrc": "projects/movie-website.png",
+    "description": "Developed a full-stack website for movies using Laravel, HTML, CSS, and JavaScript.",
+    "skills": ["Laravel", "HTML", "CSS", "JavaScript"],
+    "demo": null,
+    "source": "https://github.com/Mousa-alaaldeen/netflix-laravel"
+  }
+]
+
